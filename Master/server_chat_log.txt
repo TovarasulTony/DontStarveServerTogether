@@ -1,0 +1,7 @@
+[00:00:31]: [Join Announcement] CottonPicker
+[00:00:59]: [Join Announcement] Andreea the Tsundere
+[00:10:55]: [Leave Announcement] Andreea the Tsundere
+[00:18:25]: [Join Announcement] Andreea the Tsundere
+[00:26:01]: [Skin Announcement] CottonPicker profileflair_watermelonhat_pumpkin
+[00:33:38]: [Leave Announcement] CottonPicker
+[00:33:38]: [Leave Announcement] Andreea the Tsundere

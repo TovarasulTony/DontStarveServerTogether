@@ -1,0 +1,8 @@
+[00:00:31]: [Join Announcement] CottonPicker
+[00:00:59]: [Join Announcement] Andreea the Tsundere
+[00:03:18]: [Resurrect Announcement] Andreea the Tsundere was resurrected by CottonPicker.
+[00:03:56]: [Death Announcement] Andreea the Tsundere was killed by Spider. They became a spooky ghost!
+[00:04:50]: [Resurrect Announcement] Andreea the Tsundere was resurrected by CottonPicker.
+[00:06:20]: [Death Announcement] CottonPicker was killed by Spider Queen. She became a spooky ghost!
+[00:06:42]: [Leave Announcement] CottonPicker
+[00:06:43]: [Leave Announcement] Andreea the Tsundere

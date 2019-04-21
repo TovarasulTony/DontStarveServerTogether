@@ -1,0 +1,7 @@
+[00:00:37]: [Join Announcement] CottonPicker
+[00:01:10]: [Join Announcement] Andreea the Tsundere
+[00:09:20]: [Say] (KU_vW279ICH) CottonPicker: da e ok
+[00:17:03]: [Death Announcement] Andreea the Tsundere was killed by Red Hound. They became a spooky ghost!
+[00:17:09]: [Death Announcement] CottonPicker was killed by Fire. She became a spooky ghost!
+[00:17:16]: [Leave Announcement] CottonPicker
+[00:17:16]: [Leave Announcement] Andreea the Tsundere

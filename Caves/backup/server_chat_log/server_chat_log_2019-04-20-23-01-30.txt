@@ -1,0 +1,3 @@
+[00:00:31]: [Join Announcement] CottonPicker
+[00:00:37]: [Death Announcement] CottonPicker was killed by Killer Bee. She became a spooky ghost!
+[00:00:43]: [Leave Announcement] CottonPicker
