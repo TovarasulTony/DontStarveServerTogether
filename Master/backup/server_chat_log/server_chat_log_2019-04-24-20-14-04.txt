@@ -1,0 +1,8 @@
+[00:01:30]: [Join Announcement] Andreea the Tsundere
+[00:02:09]: [Join Announcement] CottonPicker
+[00:22:30]: [Death Announcement] CottonPicker was killed by Red Hound. She became a spooky ghost!
+[00:24:35]: [Resurrect Announcement] CottonPicker was resurrected by Andreea the Tsundere.
+[00:31:42]: [Skin Announcement] Andreea the Tsundere hand_wx78_nature
+[00:49:17]: [Skin Announcement] CottonPicker profileflair_koalefant
+[00:52:44]: [Leave Announcement] CottonPicker
+[00:52:46]: [Leave Announcement] Andreea the Tsundere
