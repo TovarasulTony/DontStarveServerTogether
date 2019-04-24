@@ -1,54 +1,54 @@
 [00:00:00]: 
 System Memory:
-	Memory Load: 47%
-	Available Physical Memory: 4263m/8053m
-	Available Page File: 5729m/10869m
-	Available Virtual Memory: 3969m/4095m
+	Memory Load: 59%
+	Available Physical Memory: 2411m/6025m
+	Available Page File: 2926m/7177m
+	Available Virtual Memory: 3984m/4095m
 	Available Extended Virtual Memory: 0m
 [00:00:00]: 
 Process Memory:
-	Peak Working Set Size: 29m
-	Working Set Size: 29m
-	Quota Peak Page Pool Usage: 239k
-	Quota Page Pool Usage: 232k
-	Quota Peak Non Paged Pool Usage:16k
-	Quota Non Paged Pool Usage: 15k
+	Peak Working Set Size: 27m
+	Working Set Size: 27m
+	Quota Peak Page Pool Usage: 219k
+	Quota Page Pool Usage: 213k
+	Quota Peak Non Paged Pool Usage:15k
+	Quota Non Paged Pool Usage: 14k
 	Page File Usage: 5m
 	Peak Page File Usage: 5m
 [00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/138437302/Cluster_1/Master/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 322646
-[00:00:00]: Current time: Sat Apr 20 23:01:30 2019
+[00:00:00]: Current time: Mon Apr 22 14:14:04 2019
 
 [00:00:00]: Don't Starve Together: 322646 WIN32
 [00:00:00]: Build Date: 4071
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -monitor_parent_process 7092 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -fo -ownernetid 76561198098703030 -ownerdir 138437302 -backup_log_count 10 -backup_log_period 0 -shard Master -sigprefix DST_Master -region EU 
+[00:00:00]: Command Line Arguments: -monitor_parent_process 2404 -persistent_storage_root APP:Klei/ -conf_dir DoNotStarveTogether -cluster Cluster_1 -fo -ownernetid 76561198098703030 -ownerdir 138437302 -backup_log_count 10 -backup_log_period 0 -shard Master -sigprefix DST_Master -region EU 
 [00:00:00]: Initializing distribution platform
 [00:00:00]: Initializing Minidump handler
 [00:00:00]: ....Done
 [00:00:00]: ....Done
 [00:00:00]: Fixing DPI
 [00:00:00]: ...Done
-[00:00:00]: THREAD - started 'GAClient' (3960)
 [00:00:00]: Mounting file system databundles/klump.zip successful.
-[00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: THREAD - started 'GAClient' (4160)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
 [00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
 [00:00:00]: Mounting file system databundles/bigportraits.zip successful.
 [00:00:00]: Mounting file system databundles/images.zip successful.
 [00:00:00]: Mounting file system databundles/scripts.zip successful.
-[00:00:00]: ProfileIndex:4.05
+[00:00:00]: ProfileIndex:11.74
 [00:00:00]: [Connect] PendingConnection::Reset(true)
-[00:00:00]: THREAD - started 'Ping Job Thread' (892)
+[00:00:00]: THREAD - started 'Ping Job Thread' (5748)
 [00:00:00]: Platform: 1
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: Authorized application C:\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
 [00:00:00]: WindowsFirewall - Application already authorized
 [00:00:00]: Overriding region to EU
-[00:00:00]: THREAD - started 'StreamInput' (8008)
+[00:00:00]: THREAD - started 'StreamInput' (5092)
 [00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/138437302/client_save/blocklist.txt (Failure)
 [00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/138437302/client_save/adminlist.txt (Failure)
 [00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/138437302/client_save/whitelist.txt (Failure)
@@ -57,25 +57,25 @@ Process Memory:
 [00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/138437302/Cluster_1/cluster_token.txt
 [00:00:00]: HardwareStats:
   OS                        
-    name                      Microsoft Windows 10 Home
-    version                   10.0.17134
+    name                      Microsoft Windows 8.1 Pro
+    version                   6.3.9600
     architecture              64-bit
     platformSpecific          SP 0.0
   CPU                       
-    numCores                  4
+    numCores                  2
     features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
-    name                      Intel(R) Core(TM) i5-4460  CPU @ 3.20GHz
+    name                      Intel(R) Core(TM) i5-3210M CPU @ 2.50GHz
     manufacturer              GenuineIntel
-    clockSpeed                3201
+    clockSpeed                2501
   RAM                       
-    megsOfRam                 8192
+    megsOfRam                 6144
   GPU                       
-    name                      Intel(R) HD Graphics 4600
-    driverDate                20171016000000.000000-000
-    megsOfRam                 1024
-    refreshRate               0
-    videoModeDescription      
-    driverVersion             20.19.15.4835
+    name                      Intel(R) HD Graphics 4000
+    driverDate                20150817000000.000000-000
+    megsOfRam                 2112
+    refreshRate               60
+    videoModeDescription      1280 x 720 x 4294967296 colors
+    driverVersion             10.18.10.4276
 
 [00:00:00]: cGame::InitializeOnMainThread
 [00:00:00]: Renderer initialize: Okay
@@ -87,369 +87,354 @@ Process Memory:
 [00:00:00]: LOADING LUA
 [00:00:00]: DoLuaFile scripts/main.lua
 [00:00:00]: DoLuaFile loading buffer scripts/main.lua
-[00:00:00]:   taskgrouplist:	default	Together	
-[00:00:00]:   taskgrouplist:	classic	Classic	
-[00:00:00]:   taskgrouplist:	cave_default	Underground	
-[00:00:00]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[00:00:00]:   taskgrouplist:	quagmire_taskset	The Gorge	
-[00:00:00]: running main.lua
+[00:00:01]:   taskgrouplist:	default	Together	
+[00:00:01]:   taskgrouplist:	classic	Classic	
+[00:00:01]:   taskgrouplist:	cave_default	Underground	
+[00:00:01]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:01]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:01]: running main.lua
 	
-[00:00:00]: loaded modindex	
-[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:01]: loaded modindex	
+[00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:00]: DownloadMods(0)
-[00:00:00]: modoverrides.lua enabling workshop-1207269058	
-[00:00:00]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
-[00:00:00]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
-[00:00:00]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
-[00:00:00]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.07	
-[00:00:00]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
-[00:00:00]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:00]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
-[00:00:00]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
-[00:00:01]: LOADING LUA SUCCESS
-[00:00:01]: Registering mod namespace "workshop-1207269058"
-[00:00:01]: PlayerDeaths could not load morgue	
-[00:00:01]: PlayerHistory could not load player_history	
-[00:00:01]: ServerPreferences could not load server_preferences	
-[00:00:01]: bloom_enabled	false	
-[00:00:01]: loaded saveindex	
-[00:00:01]: OnFilesLoaded()	
-[00:00:01]: OnUpdatePurchaseStateComplete	
-[00:00:01]: Klump load on boot started.	
-[00:00:01]: Klump files loaded: 	0	
-[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
-[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
-[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
-[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
-[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
-[00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
-[00:00:03]: 	Load FE	
-[00:00:03]: 	Load FE: done	
-[00:00:03]: THREAD - started 'FilesExistAsyncThread' (9328)
-[00:00:03]: FilesExistAsyncThread started (10300 files)...
-[00:00:03]: ModIndex: Load sequence finished successfully.	
-[00:00:03]: Reset() returning
-[00:00:03]: [IPC] Signal 'DST_Master_Kill' opened  #000004D8
-[00:00:03]: [IPC] Registering handler for signal #000004D8
-[00:00:03]: [IPC] Handle #000004D8 added to the Eventhandles
-[00:00:03]: [IPC] Signal 'DST_Master_Starting' opened  #000004F4
-[00:00:03]: [IPC] Sending signal... #000004F4
-[00:00:04]: [200] Account Communication Success (6)
-[00:00:04]: Received (KU_vW279ICH) from TokenPurpose
-[00:00:04]: Starting Dedicated Server Game	
-[00:00:04]: Network tick rate: U=15(2), D=0
-[00:00:04]: About to start a server with the following settings:
-[00:00:04]:   Dedicated: true
-[00:00:04]:   Online: true
-[00:00:04]:   Passworded: true
-[00:00:04]:   ServerPort: 10999
-[00:00:04]:   SteamAuthPort: 8766
-[00:00:04]:   SteamMasterServerPort: 27016
-[00:00:04]:   ClanID: false
-[00:00:04]:   ClanOnly: false
-[00:00:04]:   ClanAdmin: false
-[00:00:04]:   LanOnly: false
-[00:00:04]:   FriendsOnly: true
-[00:00:04]:   EnableAutosaver: true
-[00:00:04]:   EncodeUserPath: true
-[00:00:04]:   PVP: false
-[00:00:04]:   MaxPlayers: 6
-[00:00:04]:   GameMode: survival
-[00:00:04]:   OverridenDNS: 
-[00:00:04]:   PauseWhenEmpty: true
-[00:00:04]:   IdleTimeout: 1800s
-[00:00:04]:   VoteEnabled: false
-[00:00:04]:   InternetBroadcasting: true
-[00:00:04]:   Intent: cooperative
-[00:00:04]: [Warning] Could not confirm port 10999 is open in the firewall. 
-[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
-[00:00:04]: Online Server Started on port: 10999
-[00:00:04]: Collecting garbage...
-[00:00:04]: lua_gc took 0.03 seconds
-[00:00:04]: ~ShardLuaProxy()
-[00:00:04]: ~cEventLeaderboardProxy()
-[00:00:04]: ~ItemServerLuaProxy()
-[00:00:04]: ~InventoryLuaProxy()
-[00:00:04]: ~NetworkLuaProxy()
-[00:00:04]: ~SimLuaProxy()
-[00:00:04]: FilesExistAsyncThread aborted.
-[00:00:04]: ... FilesExistAsyncThread complete
-[00:00:04]: lua_close took 0.04 seconds
-[00:00:04]: ReleaseAll
-[00:00:04]: ReleaseAll Finished
-[00:00:04]: cGame::StartPlaying
-[00:00:04]: LOADING LUA
-[00:00:04]: DoLuaFile scripts/main.lua
-[00:00:04]: DoLuaFile loading buffer scripts/main.lua
-[00:00:04]:   taskgrouplist:	default	Together	
-[00:00:04]:   taskgrouplist:	classic	Classic	
-[00:00:04]:   taskgrouplist:	cave_default	Underground	
-[00:00:04]:   taskgrouplist:	lavaarena_taskset	The Forge	
-[00:00:04]:   taskgrouplist:	quagmire_taskset	The Gorge	
-[00:00:04]: running main.lua
+[00:00:01]: DownloadMods(0)
+[00:00:01]: modoverrides.lua enabling workshop-1207269058	
+[00:00:01]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:00:01]: Could not load mod_config_data/modconfiguration_workshop-1207269058_CLIENT	
+[00:00:01]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:01]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.07	
+[00:00:01]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:01]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:01]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: Registering mod namespace "workshop-1207269058"
+[00:00:05]: PlayerDeaths could not load morgue	
+[00:00:05]: PlayerHistory could not load player_history	
+[00:00:05]: ServerPreferences could not load server_preferences	
+[00:00:05]: bloom_enabled	false	
+[00:00:05]: loaded saveindex	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Klump load on boot started.	
+[00:00:05]: Klump files loaded: 	0	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:07]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:08]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:08]: 	Load FE	
+[00:00:08]: 	Load FE: done	
+[00:00:08]: THREAD - started 'FilesExistAsyncThread' (4380)
+[00:00:08]: FilesExistAsyncThread started (10300 files)...
+[00:00:08]: ModIndex: Load sequence finished successfully.	
+[00:00:08]: Reset() returning
+[00:00:08]: [IPC] Signal 'DST_Master_Kill' opened  #000003EC
+[00:00:08]: [IPC] Registering handler for signal #000003EC
+[00:00:08]: [IPC] Handle #000003EC added to the Eventhandles
+[00:00:08]: [IPC] Signal 'DST_Master_Starting' opened  #000003D8
+[00:00:08]: [IPC] Sending signal... #000003D8
+[00:00:09]: [200] Account Communication Success (6)
+[00:00:09]: Received (KU_vW279ICH) from TokenPurpose
+[00:00:09]: Starting Dedicated Server Game	
+[00:00:09]: Network tick rate: U=15(2), D=0
+[00:00:09]: About to start a server with the following settings:
+[00:00:09]:   Dedicated: true
+[00:00:09]:   Online: true
+[00:00:09]:   Passworded: true
+[00:00:09]:   ServerPort: 10999
+[00:00:09]:   SteamAuthPort: 8766
+[00:00:09]:   SteamMasterServerPort: 27016
+[00:00:09]:   ClanID: false
+[00:00:09]:   ClanOnly: false
+[00:00:09]:   ClanAdmin: false
+[00:00:09]:   LanOnly: false
+[00:00:09]:   FriendsOnly: true
+[00:00:09]:   EnableAutosaver: true
+[00:00:09]:   EncodeUserPath: true
+[00:00:09]:   PVP: false
+[00:00:09]:   MaxPlayers: 6
+[00:00:09]:   GameMode: survival
+[00:00:09]:   OverridenDNS: 
+[00:00:09]:   PauseWhenEmpty: true
+[00:00:09]:   IdleTimeout: 1800s
+[00:00:09]:   VoteEnabled: false
+[00:00:09]:   InternetBroadcasting: true
+[00:00:09]:   Intent: cooperative
+[00:00:09]: [Warning] Could not confirm port 10999 is open in the firewall. 
+[00:00:09]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:09]: Online Server Started on port: 10999
+[00:00:09]: Collecting garbage...
+[00:00:09]: lua_gc took 0.07 seconds
+[00:00:09]: ~ShardLuaProxy()
+[00:00:09]: ~cEventLeaderboardProxy()
+[00:00:09]: ~ItemServerLuaProxy()
+[00:00:09]: ~InventoryLuaProxy()
+[00:00:09]: ~NetworkLuaProxy()
+[00:00:09]: ~SimLuaProxy()
+[00:00:09]: FilesExistAsyncThread aborted.
+[00:00:09]: ... FilesExistAsyncThread complete
+[00:00:09]: lua_close took 0.07 seconds
+[00:00:09]: ReleaseAll
+[00:00:09]: ReleaseAll Finished
+[00:00:09]: cGame::StartPlaying
+[00:00:09]: LOADING LUA
+[00:00:09]: DoLuaFile scripts/main.lua
+[00:00:09]: DoLuaFile loading buffer scripts/main.lua
+[00:00:10]:   taskgrouplist:	default	Together	
+[00:00:10]:   taskgrouplist:	classic	Classic	
+[00:00:10]:   taskgrouplist:	cave_default	Underground	
+[00:00:10]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:10]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:10]: running main.lua
 	
-[00:00:04]: unloading prefabs for mod MOD_workshop-1207269058	
-[00:00:04]: loaded modindex	
-[00:00:04]: ModIndex: Beginning normal load sequence for dedicated server.
+[00:00:10]: unloading prefabs for mod MOD_workshop-1207269058	
+[00:00:10]: loaded modindex	
+[00:00:10]: ModIndex: Beginning normal load sequence for dedicated server.
 	
-[00:00:04]: modoverrides.lua enabling workshop-1207269058	
-[00:00:04]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
-[00:00:04]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
-[00:00:04]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
-[00:00:04]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.07	
-[00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
-[00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
-[00:00:04]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
-[00:00:04]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
-[00:00:04]: LOADING LUA SUCCESS
-[00:00:04]: Registering mod namespace "workshop-1207269058"
-[00:00:04]: PlayerDeaths could not load morgue	
-[00:00:04]: PlayerHistory could not load player_history	
-[00:00:04]: ServerPreferences could not load server_preferences	
-[00:00:04]: bloom_enabled	false	
-[00:00:04]: loaded saveindex	
-[00:00:04]: OnFilesLoaded()	
-[00:00:04]: OnUpdatePurchaseStateComplete	
-[00:00:04]: Loading world: session/09131CECDD673F0B/0000000093	
-[00:00:04]: Save file is at version 4.77	
-[00:00:04]: Klump load on boot started.	
-[00:00:04]: Klump files loaded: 	0	
-[00:00:05]: 	Unload FE	
-[00:00:05]: 	Unload FE done	
-[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
-[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
-[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
-[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
-[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
-[00:00:05]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
-[00:00:06]: 	LOAD BE	
-[00:00:08]: 	LOAD BE: done	
-[00:00:08]: Begin Session: 09131CECDD673F0B
-[00:00:08]: saving to server_temp/server_save	
-[00:00:08]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
-[00:00:08]: Loading 13 new character(s)	
-[00:00:09]: Total 13 character(s) loaded	
-[00:00:09]: Loading Nav Grid	
-[00:00:09]: setting 	summerlength	15	
-[00:00:09]: setting 	isnightmaredawn	false	
-[00:00:09]: setting 	elapseddaysinseason	10	
-[00:00:09]: setting 	isfullmoon	false	
-[00:00:09]: setting 	moisture	5613.9814453125	
-[00:00:09]: setting 	springlength	20	
-[00:00:09]: setting 	isnightmarewild	false	
-[00:00:09]: setting 	moonphase	new	
-[00:00:09]: setting 	precipitationrate	0	
-[00:00:09]: setting 	iswet	false	
-[00:00:09]: setting 	isnewmoon	false	
-[00:00:09]: setting 	iswinter	false	
-[00:00:09]: setting 	israining	false	
-[00:00:09]: setting 	isnightmarewarn	false	
-[00:00:09]: setting 	precipitation	none	
-[00:00:09]: setting 	cavephase	day	
-[00:00:09]: setting 	moistureceil	7651.6982421875	
-[00:00:09]: setting 	isday	true	
-[00:00:09]: setting 	iscaveday	true	
-[00:00:09]: setting 	season	autumn	
-[00:00:09]: setting 	timeinphase	0.0040747324625651	
-[00:00:09]: setting 	temperature	30.927854461611	
-[00:00:09]: setting 	isnightmarecalm	false	
-[00:00:09]: setting 	isnight	false	
-[00:00:09]: setting 	isdusk	false	
-[00:00:09]: setting 	iscavedusk	false	
-[00:00:09]: setting 	isautumn	true	
-[00:00:09]: setting 	issnowing	false	
-[00:00:09]: setting 	iswaxingmoon	true	
-[00:00:09]: setting 	pop	0.65273201874056	
-[00:00:09]: setting 	snowlevel	0	
-[00:00:09]: setting 	issnowcovered	false	
-[00:00:09]: setting 	autumnlength	20	
-[00:00:09]: setting 	phase	day	
-[00:00:09]: setting 	nightmaretime	0	
-[00:00:09]: setting 	winterlength	15	
-[00:00:09]: setting 	isspring	false	
-[00:00:09]: setting 	nightmarephase	none	
-[00:00:09]: setting 	remainingdaysinseason	10	
-[00:00:09]: setting 	cycles	80	
-[00:00:09]: setting 	iscavenight	false	
-[00:00:09]: setting 	nightmaretimeinphase	0	
-[00:00:09]: setting 	wetness	0	
-[00:00:09]: setting 	time	0.0020373662312825	
-[00:00:09]: setting 	issummer	false	
-[00:00:11]: Could not find anim build FROMNUM
-[00:00:11]: Could not find anim build FROMNUM
-[00:00:11]: Could not find anim build FROMNUM
-[00:00:11]: Could not find anim build FROMNUM
-[00:00:11]: Could not find anim build FROMNUM
-[00:00:11]: Could not find anim build FROMNUM
-[00:00:13]: Reconstructing topology	
-[00:00:13]: 	...Sorting points	
-[00:00:13]: 	...Sorting edges	
-[00:00:13]: 	...Connecting nodes	
-[00:00:13]: 	...Validating connections	
-[00:00:13]: 	...Housekeeping	
-[00:00:13]: 	...Done!	
-[00:00:13]: Restoring user: session/09131CECDD673F0B/A7N6023IA8OH/0000000093	
-[00:00:13]: Restoring user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000093	
-[00:00:13]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000094
-[00:00:13]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000094
-[00:00:13]: 1 uploads added to server. From server_temp
-[00:00:13]: About to start a shard with these settings:
-[00:00:13]:   ShardName: [SHDMASTER]
-[00:00:13]:   ShardID: 1
-[00:00:13]:   ShardRole: MASTER
-[00:00:13]:   MasterHost: (null)
-[00:00:13]:   MasterBind: 127.0.0.1
-[00:00:13]:   MasterPort: 10888
-[00:00:13]: [Shard] Starting master server
-[00:00:13]: [Warning] Could not confirm port 10888 is open in the firewall. 
-[00:00:13]: [Shard] Shard server started on port: 10888
-[00:00:13]: [IPC] Signal 'DST_Master_Ready' opened  #000005A4
-[00:00:13]: [IPC] Sending signal... #000005A4
-[00:00:13]: Telling Client our new session identifier: 09131CECDD673F0B
-[00:00:13]: ModIndex: Load sequence finished successfully.	
-[00:00:13]: Reset() returning
-[00:00:13]: [Steam] SteamGameServer_Init(8766, 10999, 27016)
-[00:00:14]: [Steam] SteamGameServer_Init success
-[00:00:14]: Validating portal[8] <-> 3608444362[8] (inactive)	
-[00:00:14]: Validating portal[10] <-> 3608444362[10] (inactive)	
-[00:00:14]: Validating portal[1] <-> 3608444362[1] (inactive)	
-[00:00:14]: Validating portal[6] <-> 3608444362[6] (inactive)	
-[00:00:14]: Validating portal[9] <-> 3608444362[9] (inactive)	
-[00:00:14]: Validating portal[2] <-> 3608444362[2] (inactive)	
-[00:00:14]: Validating portal[7] <-> 3608444362[7] (inactive)	
-[00:00:14]: Validating portal[4] <-> 3608444362[4] (inactive)	
-[00:00:14]: Validating portal[3] <-> 3608444362[3] (inactive)	
-[00:00:14]: Validating portal[5] <-> 3608444362[5] (inactive)	
-[00:00:14]: Sim paused
-[00:00:14]: Registering master server in EU lobby
-[00:00:14]: [Shard] Slave Caves(3608444362) connected: [LAN] 127.0.0.1
-[00:00:15]: Gameserver logged on to Steam, assigned SteamID [A:1:2579945480:12385]
-[00:00:15]: [Shard] Slave Caves(3608444362) ready!
-[00:00:15]: World 3608444362 is now connected	
-[00:00:15]: Validating portal[8] <-> 3608444362[8] (active)	
-[00:00:15]: Validating portal[10] <-> 3608444362[10] (disabled)	
-[00:00:15]: Validating portal[1] <-> 3608444362[1] (disabled)	
-[00:00:15]: Validating portal[6] <-> 3608444362[6] (disabled)	
-[00:00:15]: Validating portal[9] <-> 3608444362[9] (disabled)	
-[00:00:15]: Validating portal[2] <-> 3608444362[2] (disabled)	
-[00:00:15]: Validating portal[7] <-> 3608444362[7] (disabled)	
-[00:00:15]: Validating portal[4] <-> 3608444362[4] (disabled)	
-[00:00:15]: Validating portal[3] <-> 3608444362[3] (disabled)	
-[00:00:15]: Validating portal[5] <-> 3608444362[5] (disabled)	
-[00:00:15]: [Shard] Slave 'Caves(3608444362)' restarting...
-[00:00:15]: World 3608444362 is now disconnected	
-[00:00:15]: Validating portal[8] <-> 3608444362[8] (inactive)	
-[00:00:15]: Validating portal[10] <-> 3608444362[10] (inactive)	
-[00:00:15]: Validating portal[1] <-> 3608444362[1] (inactive)	
-[00:00:15]: Validating portal[6] <-> 3608444362[6] (inactive)	
-[00:00:15]: Validating portal[9] <-> 3608444362[9] (inactive)	
-[00:00:15]: Validating portal[2] <-> 3608444362[2] (inactive)	
-[00:00:15]: Validating portal[7] <-> 3608444362[7] (inactive)	
-[00:00:15]: Validating portal[4] <-> 3608444362[4] (inactive)	
-[00:00:15]: Validating portal[3] <-> 3608444362[3] (inactive)	
-[00:00:15]: Validating portal[5] <-> 3608444362[5] (inactive)	
-[00:00:22]: [Shard] Slave Caves(3608444362) ready!
-[00:00:22]: World 3608444362 is now connected	
-[00:00:22]: Validating portal[8] <-> 3608444362[8] (active)	
-[00:00:22]: Validating portal[10] <-> 3608444362[10] (disabled)	
-[00:00:22]: Validating portal[1] <-> 3608444362[1] (disabled)	
-[00:00:22]: Validating portal[6] <-> 3608444362[6] (disabled)	
-[00:00:22]: Validating portal[9] <-> 3608444362[9] (disabled)	
-[00:00:22]: Validating portal[2] <-> 3608444362[2] (disabled)	
-[00:00:22]: Validating portal[7] <-> 3608444362[7] (disabled)	
-[00:00:22]: Validating portal[4] <-> 3608444362[4] (disabled)	
-[00:00:22]: Validating portal[3] <-> 3608444362[3] (disabled)	
-[00:00:22]: Validating portal[5] <-> 3608444362[5] (disabled)	
-[00:00:23]: New incoming connection 127.0.0.1|62203 <3042196751418393742>
-[00:00:23]: Client connected from [LAN] 127.0.0.1|62203 <3042196751418393742>
-[00:00:23]: ValidateGameSessionToken pgs-usc^KU_vW279ICH^DontStarveTogether^/CG4QzNcbsKIDzCPFwyLdliKhdxNE2vycm6l2eHzLho= for <3042196751418393742>
-[00:00:23]: Client authenticated: (KU_vW279ICH) CottonPicker
-[00:00:23]: [Steam] Authenticated host '76561198098703030'
-[00:00:24]: Registering master server in EU lobby
-[00:00:24]: There is no active event to validate against.
-[00:00:24]: [Shard] Read save location file for (KU_vW279ICH)
-[00:00:32]: Resuming user: session/09131CECDD673F0B/A7N6023IA8OH/0000000094
-[00:00:32]: Spawning player at: [Load] (221.29, 0.00, -165.84)	
-[00:00:32]: Sim unpaused
-[00:00:34]: Registering master server in EU lobby
-[00:00:47]: [P2P] Session request for '76561198013447996'
-[00:00:51]: [P2P] Create session: 148.98.1.46|1 '76561198013447996'
-[00:00:51]: [P2P] Received from 148.98.1.46|1 '76561198013447996'
-[00:00:51]: [P2P] Sent to 148.98.1.46|1 '76561198013447996'
-[00:00:52]: New incoming connection 148.98.1.46|1 <3932804227203982064>
-[00:00:52]: Client connected from 148.98.1.46|1 <3932804227203982064>
-[00:00:52]: ValidateGameSessionToken pgs-usc^KU_7veFLDrr^DontStarveTogether^ogLr8/gYtkv1gFecCrC6MwiO30c3RYwV7/w2N3VuZ84= for <3932804227203982064>
-[00:00:52]: Client authenticated: (KU_7veFLDrr) Andreea the Tsundere
-[00:00:52]: [Steam] SendUserConnectAndAuthenticate for '76561198013447996'
-[00:00:52]: [Steam] Authenticated client '76561198013447996'
-[00:00:53]: There is no active event to validate against.
-[00:00:53]: [Shard] Read save location file for (KU_7veFLDrr)
-[00:00:53]: Registering master server in EU lobby
-[00:01:00]: Resuming user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000094
-[00:01:00]: Spawning player at: [Load] (215.69, 0.00, -153.74)	
-[00:01:03]: Registering master server in EU lobby
-[00:08:31]: Registering master server in EU lobby
-[00:08:32]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000094
-[00:08:32]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000094
-[00:08:32]: Serializing world: session/09131CECDD673F0B/0000000094
-[00:10:55]: [Steam] SendUserDisconnect for '76561198013447996'
-[00:10:55]: Connection lost to 148.98.1.46|1 <3932804227203982064>
-[00:10:55]: [Shard] (KU_7veFLDrr) disconnected from [SHDMASTER](1)
-[00:10:55]: Registering master server in EU lobby
-[00:10:56]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000095
-[00:16:31]: Registering master server in EU lobby
-[00:16:32]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000095
-[00:16:33]: Serializing world: session/09131CECDD673F0B/0000000095
-[00:18:17]: [P2P] Received from 148.98.1.46|1 '76561198013447996'
-[00:18:17]: [P2P] Sent to 148.98.1.46|1 '76561198013447996'
-[00:18:17]: New incoming connection 148.98.1.46|1 <3811569499617351656>
-[00:18:17]: Client connected from 148.98.1.46|1 <3811569499617351656>
-[00:18:17]: ValidateGameSessionToken pgs-usc^KU_7veFLDrr^DontStarveTogether^9/I433hVSP5AKkeWDPzhOMtHJ7Brz0EiIKvlvCM1tZY= for <3811569499617351656>
-[00:18:18]: Client authenticated: (KU_7veFLDrr) Andreea the Tsundere
-[00:18:18]: [Steam] SendUserConnectAndAuthenticate for '76561198013447996'
-[00:18:19]: [Steam] Authenticated client '76561198013447996'
-[00:18:20]: There is no active event to validate against.
-[00:18:20]: [Shard] Read save location file for (KU_7veFLDrr)
-[00:18:21]: Registering master server in EU lobby
-[00:18:27]: Resuming user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000095
-[00:18:27]: Spawning player at: [Load] (218.85, -0.00, -160.08)	
-[00:18:31]: Registering master server in EU lobby
-[00:24:32]: Registering master server in EU lobby
-[00:24:33]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000096
-[00:24:33]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000096
-[00:24:33]: Serializing world: session/09131CECDD673F0B/0000000096
-[00:30:04]: [200] Account Communication Success (6)
-[00:30:04]: Received (KU_vW279ICH) from TokenPurpose
-[00:32:33]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000097
-[00:32:33]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000097
-[00:32:33]: Serializing world: session/09131CECDD673F0B/0000000097
-[00:32:37]: Registering master server in EU lobby
-[00:33:38]: [Steam] SendUserDisconnect for '76561198098703030'
-[00:33:38]: [Shard] (KU_vW279ICH) disconnected from [SHDMASTER](1)
-[00:33:38]: Registering master server in EU lobby
-[00:33:38]: [IPC] Received shutdown signal.
-[00:33:38]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000098
-[00:33:38]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000098
-[00:33:38]: Serializing world: session/09131CECDD673F0B/0000000098
-[00:33:38]: Truncating to snapshot #98...
-[00:33:38]:  - session/09131CECDD673F0B/0000000092
-[00:33:38]:  - session/09131CECDD673F0B/A7GVJ87L9NBL/0000000092
-[00:33:38]:  - session/09131CECDD673F0B/A7N6023IA8OH/0000000092
-[00:33:38]:    3 file(s) removed
-[00:33:38]: Removing server from EU lobby
-[00:33:38]: [Shard] Stopping shard mode
-[00:33:39]: Collecting garbage...
-[00:33:39]: lua_gc took 0.18 seconds
-[00:33:39]: ~ShardLuaProxy()
-[00:33:39]: ~cEventLeaderboardProxy()
-[00:33:39]: ~ItemServerLuaProxy()
-[00:33:39]: ~InventoryLuaProxy()
-[00:33:39]: ~NetworkLuaProxy()
-[00:33:39]: ~SimLuaProxy()
-[00:33:39]: Cancelling LuaQueryCallback handle [40]
-[00:33:39]: Cancelling LuaQueryCallback handle [41]
-[00:33:39]: lua_close took 0.34 seconds
-[00:33:40]: CurlRequestManager::ClientThread::Main() complete
-[00:33:40]: HttpClient2 discarded 0 callbacks.
-[00:33:40]: Shutting down
+[00:00:10]: modoverrides.lua enabling workshop-1207269058	
+[00:00:10]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1207269058	
+[00:00:10]: Could not load mod_config_data/modconfiguration_workshop-1207269058	
+[00:00:10]: applying configuration_options from modoverrides.lua to mod workshop-1207269058	
+[00:00:10]: Loading mod: workshop-1207269058 ( Simple Health Bar DST) Version:2.07	
+[00:00:10]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modworldgenmain.lua	
+[00:00:10]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:00:10]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Loading modmain.lua	
+[00:00:10]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:10]: LOADING LUA SUCCESS
+[00:00:10]: Registering mod namespace "workshop-1207269058"
+[00:00:10]: PlayerDeaths could not load morgue	
+[00:00:10]: PlayerHistory could not load player_history	
+[00:00:10]: ServerPreferences could not load server_preferences	
+[00:00:10]: bloom_enabled	false	
+[00:00:10]: loaded saveindex	
+[00:00:10]: OnFilesLoaded()	
+[00:00:10]: OnUpdatePurchaseStateComplete	
+[00:00:10]: Loading world: session/09131CECDD673F0B/0000000098	
+[00:00:11]: Save file is at version 4.77	
+[00:00:11]: Klump load on boot started.	
+[00:00:11]: Klump files loaded: 	0	
+[00:00:11]: 	Unload FE	
+[00:00:11]: 	Unload FE done	
+[00:00:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	Registering prefabs	
+[00:00:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering prefab file: prefabs/dychealthbar	
+[00:00:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_damagedisplay	
+[00:00:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbarchild	
+[00:00:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	    dyc_healthbar	
+[00:00:13]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
+[00:00:13]: 	LOAD BE	
+[00:00:32]: 	LOAD BE: done	
+[00:00:32]: Begin Session: 09131CECDD673F0B
+[00:00:32]: saving to server_temp/server_save	
+[00:00:33]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:33]: Loading 13 new character(s)	
+[00:00:37]: Total 13 character(s) loaded	
+[00:00:38]: Loading Nav Grid	
+[00:00:38]: setting 	summerlength	15	
+[00:00:38]: setting 	isnightmaredawn	false	
+[00:00:38]: setting 	elapseddaysinseason	14	
+[00:00:38]: setting 	isfullmoon	false	
+[00:00:38]: setting 	moisture	6188.0063476563	
+[00:00:38]: setting 	springlength	20	
+[00:00:38]: setting 	isnightmarewild	false	
+[00:00:38]: setting 	moonphase	half	
+[00:00:38]: setting 	precipitationrate	0	
+[00:00:38]: setting 	iswet	false	
+[00:00:38]: setting 	isnewmoon	false	
+[00:00:38]: setting 	iswinter	false	
+[00:00:38]: setting 	israining	false	
+[00:00:38]: setting 	isnightmarewarn	false	
+[00:00:38]: setting 	precipitation	none	
+[00:00:38]: setting 	cavephase	day	
+[00:00:38]: setting 	moistureceil	7651.6982421875	
+[00:00:38]: setting 	isday	true	
+[00:00:38]: setting 	iscaveday	true	
+[00:00:38]: setting 	season	autumn	
+[00:00:38]: setting 	timeinphase	0.27256921132406	
+[00:00:38]: setting 	temperature	23.354915034466	
+[00:00:38]: setting 	isnightmarecalm	false	
+[00:00:38]: setting 	isnight	false	
+[00:00:38]: setting 	isdusk	false	
+[00:00:38]: setting 	iscavedusk	false	
+[00:00:38]: setting 	isautumn	true	
+[00:00:38]: setting 	issnowing	false	
+[00:00:38]: setting 	iswaxingmoon	true	
+[00:00:38]: setting 	pop	0.75055742280812	
+[00:00:38]: setting 	snowlevel	0	
+[00:00:38]: setting 	issnowcovered	false	
+[00:00:38]: setting 	autumnlength	20	
+[00:00:38]: setting 	phase	day	
+[00:00:38]: setting 	nightmaretime	0	
+[00:00:38]: setting 	winterlength	15	
+[00:00:38]: setting 	isspring	false	
+[00:00:38]: setting 	nightmarephase	none	
+[00:00:38]: setting 	remainingdaysinseason	6	
+[00:00:38]: setting 	cycles	84	
+[00:00:38]: setting 	iscavenight	false	
+[00:00:38]: setting 	nightmaretimeinphase	0	
+[00:00:38]: setting 	wetness	0	
+[00:00:38]: setting 	time	0.13628460566203	
+[00:00:38]: setting 	issummer	false	
+[00:00:47]: Could not find anim build FROMNUM
+[00:00:47]: Could not find anim build FROMNUM
+[00:00:47]: Could not find anim build FROMNUM
+[00:00:47]: Could not find anim build FROMNUM
+[00:00:47]: Could not find anim build FROMNUM
+[00:00:47]: Could not find anim build FROMNUM
+[00:00:49]: Reconstructing topology	
+[00:00:49]: 	...Sorting points	
+[00:00:49]: 	...Sorting edges	
+[00:00:49]: 	...Connecting nodes	
+[00:00:49]: 	...Validating connections	
+[00:00:49]: 	...Housekeeping	
+[00:00:49]: 	...Done!	
+[00:00:50]: 1 uploads added to server. From server_temp
+[00:00:50]: About to start a shard with these settings:
+[00:00:50]:   ShardName: [SHDMASTER]
+[00:00:50]:   ShardID: 1
+[00:00:50]:   ShardRole: MASTER
+[00:00:50]:   MasterHost: (null)
+[00:00:50]:   MasterBind: 127.0.0.1
+[00:00:50]:   MasterPort: 10888
+[00:00:50]: [Shard] Starting master server
+[00:00:50]: [Warning] Could not confirm port 10888 is open in the firewall. 
+[00:00:50]: [Shard] Shard server started on port: 10888
+[00:00:50]: [IPC] Signal 'DST_Master_Ready' opened  #000005AC
+[00:00:50]: [IPC] Sending signal... #000005AC
+[00:00:50]: Telling Client our new session identifier: 09131CECDD673F0B
+[00:00:50]: ModIndex: Load sequence finished successfully.	
+[00:00:52]: Reset() returning
+[00:00:52]: [Steam] SteamGameServer_Init(8766, 10999, 27016)
+[00:00:53]: [Steam] SteamGameServer_Init success
+[00:00:54]: Validating portal[4] <-> 3608444362[4] (inactive)	
+[00:00:54]: Validating portal[3] <-> 3608444362[3] (inactive)	
+[00:00:54]: Validating portal[7] <-> 3608444362[7] (inactive)	
+[00:00:54]: Validating portal[1] <-> 3608444362[1] (inactive)	
+[00:00:54]: Validating portal[9] <-> 3608444362[9] (inactive)	
+[00:00:54]: Validating portal[5] <-> 3608444362[5] (inactive)	
+[00:00:54]: Validating portal[8] <-> 3608444362[8] (inactive)	
+[00:00:54]: Validating portal[6] <-> 3608444362[6] (inactive)	
+[00:00:54]: Validating portal[10] <-> 3608444362[10] (inactive)	
+[00:00:54]: Validating portal[2] <-> 3608444362[2] (inactive)	
+[00:00:54]: Sim paused
+[00:00:54]: Gameserver logged on to Steam, assigned SteamID [A:1:2662041603:12393]
+[00:00:54]: Registering master server in EU lobby
+[00:00:54]: [Shard] Slave Caves(3608444362) connected: [LAN] 127.0.0.1
+[00:00:55]: [Shard] Slave Caves(3608444362) ready!
+[00:00:55]: World 3608444362 is now connected	
+[00:00:55]: Validating portal[4] <-> 3608444362[4] (disabled)	
+[00:00:55]: Validating portal[3] <-> 3608444362[3] (disabled)	
+[00:00:55]: Validating portal[7] <-> 3608444362[7] (disabled)	
+[00:00:55]: Validating portal[1] <-> 3608444362[1] (disabled)	
+[00:00:55]: Validating portal[9] <-> 3608444362[9] (disabled)	
+[00:00:55]: Validating portal[5] <-> 3608444362[5] (disabled)	
+[00:00:55]: Validating portal[8] <-> 3608444362[8] (active)	
+[00:00:55]: Validating portal[6] <-> 3608444362[6] (disabled)	
+[00:00:55]: Validating portal[10] <-> 3608444362[10] (disabled)	
+[00:00:55]: Validating portal[2] <-> 3608444362[2] (disabled)	
+[00:00:57]: New incoming connection 127.0.0.1|62286 <2829691580418387819>
+[00:00:57]: Client connected from [LAN] 127.0.0.1|62286 <2829691580418387819>
+[00:00:57]: ValidateGameSessionToken pgs-usc^KU_vW279ICH^DontStarveTogether^FqC8udJp49iiYOMaC2NqYpVfLJqpXhVDJTPlqis28nk= for <2829691580418387819>
+[00:00:57]: Client authenticated: (KU_vW279ICH) CottonPicker
+[00:00:57]: [Steam] Authenticated host '76561198098703030'
+[00:00:58]: There is no active event to validate against.
+[00:00:58]: [Shard] Read save location file for (KU_vW279ICH)
+[00:01:04]: Registering master server in EU lobby
+[00:01:17]: [P2P] Session request for '76561198013447996'
+[00:01:21]: [P2P] Create session: 102.101.62.14|1 '76561198013447996'
+[00:01:21]: [P2P] Received from 102.101.62.14|1 '76561198013447996'
+[00:01:21]: [P2P] Sent to 102.101.62.14|1 '76561198013447996'
+[00:01:21]: New incoming connection 102.101.62.14|1 <8750510041897437608>
+[00:01:21]: Client connected from 102.101.62.14|1 <8750510041897437608>
+[00:01:21]: ValidateGameSessionToken pgs-usc^KU_7veFLDrr^DontStarveTogether^BwFIracqABG0SMOvXkypaY0dIX2G/lcO1gnw4NPYZWo= for <8750510041897437608>
+[00:01:21]: Client authenticated: (KU_7veFLDrr) Andreea the Tsundere
+[00:01:21]: [Steam] SendUserConnectAndAuthenticate for '76561198013447996'
+[00:01:22]: [Steam] Authenticated client '76561198013447996'
+[00:01:22]: There is no active event to validate against.
+[00:01:22]: [Shard] Read save location file for (KU_7veFLDrr)
+[00:01:22]: Registering master server in EU lobby
+[00:01:31]: Resuming user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000098
+[00:01:31]: Spawning player at: [Load] (383.03, -0.00, -88.81)	
+[00:01:32]: Sim unpaused
+[00:01:32]: Registering master server in EU lobby
+[00:02:12]: Resuming user: session/09131CECDD673F0B/A7N6023IA8OH/0000000098
+[00:02:12]: Spawning player at: [Load] (292.69, 0.00, -204.94)	
+[00:02:13]: Registering master server in EU lobby
+[00:08:26]: Registering master server in EU lobby
+[00:08:28]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000099
+[00:08:28]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000099
+[00:08:29]: Serializing world: session/09131CECDD673F0B/0000000099
+[00:16:29]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000100
+[00:16:31]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000100
+[00:16:33]: Serializing world: session/09131CECDD673F0B/0000000100
+[00:16:33]: Registering master server in EU lobby
+[00:22:30]: Could not find anim [death] in bank [ghost]
+[00:22:30]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000101
+[00:24:34]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000101
+[00:24:34]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000101
+[00:24:34]: Serializing world: session/09131CECDD673F0B/0000000101
+[00:24:35]: Could not find anim [idle_loop] in bank [ghost]
+[00:24:38]: Could not find anim [transform] in bank [wilson]
+[00:24:38]: Registering master server in EU lobby
+[00:24:39]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000102
+[00:30:09]: [200] Account Communication Success (6)
+[00:30:09]: Received (KU_vW279ICH) from TokenPurpose
+[00:32:35]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000102
+[00:32:35]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000102
+[00:32:36]: Serializing world: session/09131CECDD673F0B/0000000102
+[00:32:43]: Registering master server in EU lobby
+[00:40:35]: Registering master server in EU lobby
+[00:40:37]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000103
+[00:40:37]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000103
+[00:40:37]: Serializing world: session/09131CECDD673F0B/0000000103
+[00:48:38]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000104
+[00:48:38]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000104
+[00:48:39]: Serializing world: session/09131CECDD673F0B/0000000104
+[00:48:40]: Registering master server in EU lobby
+[00:52:44]: [Steam] SendUserDisconnect for '76561198098703030'
+[00:52:44]: [Shard] (KU_vW279ICH) disconnected from [SHDMASTER](1)
+[00:52:44]: Registering master server in EU lobby
+[00:52:44]: [IPC] Received shutdown signal.
+[00:52:45]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000105
+[00:52:45]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000105
+[00:52:46]: Serializing world: session/09131CECDD673F0B/0000000105
+[00:52:46]: Truncating to snapshot #105...
+[00:52:46]:  - session/09131CECDD673F0B/0000000093
+[00:52:46]:  - session/09131CECDD673F0B/0000000094
+[00:52:46]:  - session/09131CECDD673F0B/0000000095
+[00:52:46]:  - session/09131CECDD673F0B/0000000096
+[00:52:46]:  - session/09131CECDD673F0B/0000000097
+[00:52:46]:  - session/09131CECDD673F0B/0000000098
+[00:52:46]:  - session/09131CECDD673F0B/0000000099
+[00:52:46]:  - session/09131CECDD673F0B/A7GVJ87L9NBL/0000000099
+[00:52:46]:  - session/09131CECDD673F0B/A7GVJ87L9NBL/0000000098
+[00:52:46]:  - session/09131CECDD673F0B/A7GVJ87L9NBL/0000000097
+[00:52:46]:  - session/09131CECDD673F0B/A7GVJ87L9NBL/0000000096
+[00:52:46]:  - session/09131CECDD673F0B/A7GVJ87L9NBL/0000000095
+[00:52:46]:  - session/09131CECDD673F0B/A7GVJ87L9NBL/0000000094
+[00:52:46]:  - session/09131CECDD673F0B/A7GVJ87L9NBL/0000000093
+[00:52:46]:  - session/09131CECDD673F0B/A7N6023IA8OH/0000000099
+[00:52:46]:  - session/09131CECDD673F0B/A7N6023IA8OH/0000000098
+[00:52:46]:  - session/09131CECDD673F0B/A7N6023IA8OH/0000000097
+[00:52:46]:  - session/09131CECDD673F0B/A7N6023IA8OH/0000000096
+[00:52:46]:  - session/09131CECDD673F0B/A7N6023IA8OH/0000000095
+[00:52:46]:  - session/09131CECDD673F0B/A7N6023IA8OH/0000000094
+[00:52:46]:  - session/09131CECDD673F0B/A7N6023IA8OH/0000000093
+[00:52:46]:    21 file(s) removed
+[00:52:46]: Removing server from EU lobby
+[00:52:46]: [Shard] Stopping shard mode
+[00:52:47]: Collecting garbage...
+[00:52:48]: lua_gc took 0.48 seconds
+[00:52:48]: ~ShardLuaProxy()
+[00:52:48]: ~cEventLeaderboardProxy()
+[00:52:48]: ~ItemServerLuaProxy()
+[00:52:48]: ~InventoryLuaProxy()
+[00:52:48]: ~NetworkLuaProxy()
+[00:52:48]: ~SimLuaProxy()
+[00:52:48]: Cancelling LuaQueryCallback handle [59]
+[00:52:48]: Cancelling LuaQueryCallback handle [60]
+[00:52:49]: lua_close took 0.95 seconds
+[00:52:49]: CurlRequestManager::ClientThread::Main() complete
+[00:52:49]: HttpClient2 discarded 0 callbacks.
+[00:52:49]: Shutting down
