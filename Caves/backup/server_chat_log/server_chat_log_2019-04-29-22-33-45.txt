@@ -1,0 +1,14 @@
+[00:00:36]: [Join Announcement] CottonPicker
+[00:01:19]: [Join Announcement] Andreea the Tsundere
+[00:01:30]: [Skin Announcement] Andreea the Tsundere feet_wes_nature
+[00:17:54]: [Death Announcement] CottonPicker was killed by Beefalo. She became a spooky ghost!
+[00:22:57]: [Resurrect Announcement] CottonPicker was resurrected by Andreea the Tsundere.
+[00:32:36]: [Say] (KU_7veFLDrr) Andreea the Tsundere: mai esti in viata?
+[00:32:41]: [Say] (KU_vW279ICH) CottonPicker: DA
+[00:32:56]: [Say] (KU_7veFLDrr) Andreea the Tsundere: te auzi ca si cum ai fi fost posedat de ceva demon
+[00:34:00]: [Leave Announcement] Andreea the Tsundere
+[00:34:50]: [Join Announcement] Andreea the Tsundere
+[00:38:33]: [Death Announcement] Andreea the Tsundere was killed by Koalefant. They became a spooky ghost!
+[00:39:36]: [Death Announcement] CottonPicker was killed by Koalefant. She became a spooky ghost!
+[00:39:57]: [Leave Announcement] Andreea the Tsundere
+[00:39:57]: [Leave Announcement] CottonPicker

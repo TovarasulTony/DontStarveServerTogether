@@ -1,0 +1,4 @@
+[00:01:11]: [Join Announcement] CottonPicker
+[00:01:18]: [Join Announcement] Andreea the Tsundere
+[00:24:23]: [Leave Announcement] Andreea the Tsundere
+[00:24:28]: [Leave Announcement] CottonPicker
