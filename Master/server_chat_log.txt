@@ -1,7 +1,8 @@
-[00:00:33]: [Join Announcement] CottonPicker
-[00:02:25]: [Join Announcement] Andreea the Tsundere
-[00:22:44]: [Death Announcement] Andreea the Tsundere was killed by Blue Hound. They became a spooky ghost!
-[00:24:08]: [Resurrect Announcement] Andreea the Tsundere was resurrected by CottonPicker.
-[00:24:48]: [Skin Announcement] CottonPicker playerportrait_bg_grasslands
-[00:32:23]: [Leave Announcement] CottonPicker
-[00:32:23]: [Leave Announcement] Andreea the Tsundere
+[00:00:31]: [Join Announcement] CottonPicker
+[00:06:39]: [Join Announcement] Andreea the Tsundere
+[00:06:59]: [Say] (KU_vW279ICH) CottonPicker: nu am dat eu
+[00:10:00]: [Say] (KU_vW279ICH) CottonPicker: king pig
+[00:12:51]: [Leave Announcement] Andreea the Tsundere
+[00:15:36]: [Death Announcement] CottonPicker was killed by Darkness. She became a spooky ghost!
+[00:16:36]: [Resurrect Announcement] CottonPicker was resurrected by Life Giving Amulet.
+[00:31:39]: [Leave Announcement] CottonPicker

@@ -1,5 +1,0 @@
-[00:00:32]: [Join Announcement] CottonPicker
-[00:01:07]: [Join Announcement] Andreea the Tsundere
-[00:02:46]: [Death Announcement] CottonPicker was killed by Blue Hound. She became a spooky ghost!
-[00:02:52]: [Death Announcement] Andreea the Tsundere was killed by MacTusk. They became a spooky ghost!
-[00:02:56]: [Leave Announcement] CottonPicker

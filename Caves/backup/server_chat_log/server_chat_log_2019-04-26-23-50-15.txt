@@ -1,5 +1,0 @@
-[00:00:31]: [Join Announcement] CottonPicker
-[00:00:59]: [Join Announcement] Andreea the Tsundere
-[00:11:59]: [Death Announcement] Andreea the Tsundere was killed by Tentacle. They became a spooky ghost!
-[00:12:16]: [Death Announcement] CottonPicker was killed by Varg. She became a spooky ghost!
-[00:12:20]: [Leave Announcement] CottonPicker

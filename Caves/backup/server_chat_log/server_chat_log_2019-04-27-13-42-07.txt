@@ -1,7 +1,0 @@
-[00:00:38]: [Join Announcement] CottonPicker
-[00:00:54]: [Join Announcement] Andreea the Tsundere
-[00:07:39]: [Death Announcement] CottonPicker was killed by Hound. She became a spooky ghost!
-[00:10:30]: [Resurrect Announcement] CottonPicker was resurrected by Andreea the Tsundere.
-[00:30:06]: [Death Announcement] Andreea the Tsundere was killed by Deerclops. They became a spooky ghost!
-[00:30:18]: [Death Announcement] CottonPicker was killed by Deerclops. She became a spooky ghost!
-[00:30:41]: [Leave Announcement] CottonPicker

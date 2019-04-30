@@ -1,0 +1,32 @@
+[00:00:31]: [Join Announcement] CottonPicker
+[00:01:09]: [Join Announcement] Andreea the Tsundere
+[00:06:13]: [Death Announcement] CottonPicker was killed by Spider Warrior. She became a spooky ghost!
+[00:06:40]: [Resurrect Announcement] CottonPicker was resurrected by Andreea the Tsundere.
+[00:14:51]: [Skin Announcement] Andreea the Tsundere profileflair_theforge_elementalrise
+[00:38:41]: [Death Announcement] CottonPicker was killed by Spider Warrior. She became a spooky ghost!
+[00:41:59]: [Resurrect Announcement] CottonPicker was resurrected by Andreea the Tsundere.
+[00:48:15]: [Say] (KU_vW279ICH) CottonPicker: 󰀙
+[00:48:22]: [Say] (KU_vW279ICH) CottonPicker: cu stil
+[00:48:27]: [Say] (KU_vW279ICH) CottonPicker: 󰀏
+[00:48:29]: [Say] (KU_7veFLDrr) Andreea the Tsundere: :flex:
+[00:48:34]: [Say] (KU_7veFLDrr) Andreea the Tsundere: flex
+[00:49:22]: [Say] (KU_vW279ICH) CottonPicker: departe de patratelul asta?
+[00:49:23]: [Say] (KU_vW279ICH) CottonPicker: da
+[00:49:31]: [Say] (KU_vW279ICH) CottonPicker: nu
+[00:59:21]: [Skin Announcement] CottonPicker playerportrait_bg_monsterspawn
+[01:00:23]: [Say] (KU_vW279ICH) CottonPicker: de ce?
+[01:04:54]: [Say] (KU_vW279ICH) CottonPicker: sanatate
+[01:06:03]: [Say] (KU_vW279ICH) CottonPicker: ghici
+[01:06:12]: [Say] (KU_vW279ICH) CottonPicker: yep
+[01:06:26]: [Say] (KU_vW279ICH) CottonPicker: dar nu le mai baga pe toate la gramada pe viitor
+[01:06:33]: [Say] (KU_vW279ICH) CottonPicker: fa un gard pt fiecae in parte
+[01:17:30]: [Say] (KU_vW279ICH) CottonPicker: cum doresti
+[01:18:26]: [Say] (KU_vW279ICH) CottonPicker: nu o distruge
+[01:19:02]: [Death Announcement] Andreea the Tsundere was killed by Darkness. They became a spooky ghost!
+[01:20:52]: [Resurrect Announcement] Andreea the Tsundere was resurrected by CottonPicker.
+[01:20:59]: [Say] (KU_7veFLDrr) Andreea the Tsundere: ms
+[01:21:23]: [Skin Announcement] Andreea the Tsundere profileflair_babybeefalo
+[01:23:23]: [Say] (KU_7veFLDrr) Andreea the Tsundere: o sa ies putin
+[01:23:28]: [Say] (KU_vW279ICH) CottonPicker: ok
+[01:23:34]: [Leave Announcement] Andreea the Tsundere
+[01:33:30]: [Leave Announcement] CottonPicker

@@ -1,8 +1,8 @@
 [00:00:00]: 
 System Memory:
-	Memory Load: 59%
-	Available Physical Memory: 3290m/8053m
-	Available Page File: 3731m/10741m
+	Memory Load: 58%
+	Available Physical Memory: 3337m/8053m
+	Available Page File: 3757m/10741m
 	Available Virtual Memory: 3969m/4095m
 	Available Extended Virtual Memory: 0m
 [00:00:00]: 
@@ -18,7 +18,7 @@ Process Memory:
 [00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/138437302/Cluster_1/Master/ 
 [00:00:00]: Starting Up
 [00:00:00]: Version: 322646
-[00:00:00]: Current time: Tue Apr 30 15:30:25 2019
+[00:00:00]: Current time: Tue Apr 30 15:28:51 2019
 
 [00:00:00]: Don't Starve Together: 322646 WIN32
 [00:00:00]: Build Date: 4071
@@ -30,25 +30,25 @@ Process Memory:
 [00:00:00]: ....Done
 [00:00:00]: Fixing DPI
 [00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (12312)
 [00:00:00]: Mounting file system databundles/klump.zip successful.
-[00:00:00]: THREAD - started 'GAClient' (4636)
-[00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
 [00:00:00]: Mounting file system databundles/fonts.zip successful.
 [00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
 [00:00:00]: Mounting file system databundles/bigportraits.zip successful.
 [00:00:00]: Mounting file system databundles/images.zip successful.
 [00:00:00]: Mounting file system databundles/scripts.zip successful.
-[00:00:00]: ProfileIndex:4.35
+[00:00:00]: ProfileIndex:4.62
 [00:00:00]: [Connect] PendingConnection::Reset(true)
-[00:00:00]: THREAD - started 'Ping Job Thread' (10996)
+[00:00:00]: THREAD - started 'Ping Job Thread' (32)
 [00:00:00]: Platform: 1
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Authorized application C:\Steam\steamapps\common\Don't Starve Together\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
 [00:00:00]: WindowsFirewall - Application already authorized
 [00:00:00]: Overriding region to EU
-[00:00:00]: THREAD - started 'StreamInput' (11740)
+[00:00:00]: THREAD - started 'StreamInput' (2228)
 [00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/138437302/client_save/blocklist.txt (Failure)
 [00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/138437302/client_save/adminlist.txt (Failure)
 [00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/138437302/client_save/whitelist.txt (Failure)
@@ -126,15 +126,15 @@ Process Memory:
 [00:00:03]: Mod: workshop-1207269058 ( Simple Health Bar DST)	  Registering default mod prefab	
 [00:00:03]: 	Load FE	
 [00:00:04]: 	Load FE: done	
-[00:00:04]: THREAD - started 'FilesExistAsyncThread' (13248)
+[00:00:04]: THREAD - started 'FilesExistAsyncThread' (10416)
 [00:00:04]: FilesExistAsyncThread started (10300 files)...
 [00:00:04]: ModIndex: Load sequence finished successfully.	
 [00:00:04]: Reset() returning
-[00:00:04]: [IPC] Signal 'DST_Master_Kill' opened  #000004E0
-[00:00:04]: [IPC] Registering handler for signal #000004E0
-[00:00:04]: [IPC] Handle #000004E0 added to the Eventhandles
-[00:00:04]: [IPC] Signal 'DST_Master_Starting' opened  #0000047C
-[00:00:04]: [IPC] Sending signal... #0000047C
+[00:00:04]: [IPC] Signal 'DST_Master_Kill' opened  #000004B8
+[00:00:04]: [IPC] Registering handler for signal #000004B8
+[00:00:04]: [IPC] Handle #000004B8 added to the Eventhandles
+[00:00:04]: [IPC] Signal 'DST_Master_Starting' opened  #000004C8
+[00:00:04]: [IPC] Sending signal... #000004C8
 [00:00:04]: [200] Account Communication Success (6)
 [00:00:04]: Received (KU_vW279ICH) from TokenPurpose
 [00:00:04]: Starting Dedicated Server Game	
@@ -282,11 +282,11 @@ Process Memory:
 [00:00:11]: Could not find anim build FROMNUM
 [00:00:11]: Could not find anim build FROMNUM
 [00:00:11]: Could not find anim build FROMNUM
-[00:00:14]: Reconstructing topology	
-[00:00:14]: 	...Sorting points	
-[00:00:14]: 	...Sorting edges	
-[00:00:14]: 	...Connecting nodes	
-[00:00:14]: 	...Validating connections	
+[00:00:13]: Reconstructing topology	
+[00:00:13]: 	...Sorting points	
+[00:00:13]: 	...Sorting edges	
+[00:00:13]: 	...Connecting nodes	
+[00:00:13]: 	...Validating connections	
 [00:00:14]: 	...Housekeeping	
 [00:00:14]: 	...Done!	
 [00:00:14]: Restoring user: session/09131CECDD673F0B/A7N6023IA8OH/0000000148	
@@ -311,59 +311,59 @@ Process Memory:
 [00:00:14]: Reset() returning
 [00:00:14]: [Steam] SteamGameServer_Init(8766, 10999, 27016)
 [00:00:14]: [Steam] SteamGameServer_Init success
-[00:00:15]: Validating portal[1] <-> 3608444362[1] (inactive)	
-[00:00:15]: Validating portal[4] <-> 3608444362[4] (inactive)	
-[00:00:15]: Validating portal[6] <-> 3608444362[6] (inactive)	
-[00:00:15]: Validating portal[5] <-> 3608444362[5] (inactive)	
-[00:00:15]: Validating portal[10] <-> 3608444362[10] (inactive)	
-[00:00:15]: Validating portal[8] <-> 3608444362[8] (inactive)	
-[00:00:15]: Validating portal[7] <-> 3608444362[7] (inactive)	
+[00:00:15]: Validating portal[2] <-> 3608444362[2] (inactive)	
 [00:00:15]: Validating portal[9] <-> 3608444362[9] (inactive)	
 [00:00:15]: Validating portal[3] <-> 3608444362[3] (inactive)	
-[00:00:15]: Validating portal[2] <-> 3608444362[2] (inactive)	
+[00:00:15]: Validating portal[4] <-> 3608444362[4] (inactive)	
+[00:00:15]: Validating portal[5] <-> 3608444362[5] (inactive)	
+[00:00:15]: Validating portal[1] <-> 3608444362[1] (inactive)	
+[00:00:15]: Validating portal[8] <-> 3608444362[8] (inactive)	
+[00:00:15]: Validating portal[10] <-> 3608444362[10] (inactive)	
+[00:00:15]: Validating portal[6] <-> 3608444362[6] (inactive)	
+[00:00:15]: Validating portal[7] <-> 3608444362[7] (inactive)	
 [00:00:15]: Sim paused
 [00:00:15]: Registering master server in EU lobby
-[00:00:15]: Gameserver logged on to Steam, assigned SteamID [A:1:1604999176:12442]
 [00:00:15]: [Shard] Slave Caves(3608444362) connected: [LAN] 127.0.0.1
+[00:00:16]: Gameserver logged on to Steam, assigned SteamID [A:1:1602421768:12442]
 [00:00:16]: [Shard] Slave Caves(3608444362) ready!
 [00:00:16]: World 3608444362 is now connected	
-[00:00:16]: Validating portal[1] <-> 3608444362[1] (disabled)	
-[00:00:16]: Validating portal[4] <-> 3608444362[4] (disabled)	
-[00:00:16]: Validating portal[6] <-> 3608444362[6] (disabled)	
-[00:00:16]: Validating portal[5] <-> 3608444362[5] (disabled)	
-[00:00:16]: Validating portal[10] <-> 3608444362[10] (disabled)	
-[00:00:16]: Validating portal[8] <-> 3608444362[8] (active)	
-[00:00:16]: Validating portal[7] <-> 3608444362[7] (disabled)	
+[00:00:16]: Validating portal[2] <-> 3608444362[2] (disabled)	
 [00:00:16]: Validating portal[9] <-> 3608444362[9] (disabled)	
 [00:00:16]: Validating portal[3] <-> 3608444362[3] (disabled)	
-[00:00:16]: Validating portal[2] <-> 3608444362[2] (disabled)	
+[00:00:16]: Validating portal[4] <-> 3608444362[4] (disabled)	
+[00:00:16]: Validating portal[5] <-> 3608444362[5] (disabled)	
+[00:00:16]: Validating portal[1] <-> 3608444362[1] (disabled)	
+[00:00:16]: Validating portal[8] <-> 3608444362[8] (active)	
+[00:00:16]: Validating portal[10] <-> 3608444362[10] (disabled)	
+[00:00:16]: Validating portal[6] <-> 3608444362[6] (disabled)	
+[00:00:16]: Validating portal[7] <-> 3608444362[7] (disabled)	
 [00:00:16]: [Shard] Slave 'Caves(3608444362)' restarting...
 [00:00:16]: World 3608444362 is now disconnected	
-[00:00:16]: Validating portal[1] <-> 3608444362[1] (inactive)	
-[00:00:16]: Validating portal[4] <-> 3608444362[4] (inactive)	
-[00:00:16]: Validating portal[6] <-> 3608444362[6] (inactive)	
-[00:00:16]: Validating portal[5] <-> 3608444362[5] (inactive)	
-[00:00:16]: Validating portal[10] <-> 3608444362[10] (inactive)	
-[00:00:16]: Validating portal[8] <-> 3608444362[8] (inactive)	
-[00:00:16]: Validating portal[7] <-> 3608444362[7] (inactive)	
+[00:00:16]: Validating portal[2] <-> 3608444362[2] (inactive)	
 [00:00:16]: Validating portal[9] <-> 3608444362[9] (inactive)	
 [00:00:16]: Validating portal[3] <-> 3608444362[3] (inactive)	
-[00:00:16]: Validating portal[2] <-> 3608444362[2] (inactive)	
+[00:00:16]: Validating portal[4] <-> 3608444362[4] (inactive)	
+[00:00:16]: Validating portal[5] <-> 3608444362[5] (inactive)	
+[00:00:16]: Validating portal[1] <-> 3608444362[1] (inactive)	
+[00:00:16]: Validating portal[8] <-> 3608444362[8] (inactive)	
+[00:00:16]: Validating portal[10] <-> 3608444362[10] (inactive)	
+[00:00:16]: Validating portal[6] <-> 3608444362[6] (inactive)	
+[00:00:16]: Validating portal[7] <-> 3608444362[7] (inactive)	
 [00:00:22]: [Shard] Slave Caves(3608444362) ready!
 [00:00:22]: World 3608444362 is now connected	
-[00:00:22]: Validating portal[1] <-> 3608444362[1] (disabled)	
-[00:00:22]: Validating portal[4] <-> 3608444362[4] (disabled)	
-[00:00:22]: Validating portal[6] <-> 3608444362[6] (disabled)	
-[00:00:22]: Validating portal[5] <-> 3608444362[5] (disabled)	
-[00:00:22]: Validating portal[10] <-> 3608444362[10] (disabled)	
-[00:00:22]: Validating portal[8] <-> 3608444362[8] (active)	
-[00:00:22]: Validating portal[7] <-> 3608444362[7] (disabled)	
+[00:00:22]: Validating portal[2] <-> 3608444362[2] (disabled)	
 [00:00:22]: Validating portal[9] <-> 3608444362[9] (disabled)	
 [00:00:22]: Validating portal[3] <-> 3608444362[3] (disabled)	
-[00:00:22]: Validating portal[2] <-> 3608444362[2] (disabled)	
-[00:00:23]: New incoming connection 127.0.0.1|50199 <3032911443230417152>
-[00:00:23]: Client connected from [LAN] 127.0.0.1|50199 <3032911443230417152>
-[00:00:23]: ValidateGameSessionToken pgs-usc^KU_vW279ICH^DontStarveTogether^iPmsgVaVSsmWiJ/M9tp6TVCIjaJle/Hciz8HYh9zjtU= for <3032911443230417152>
+[00:00:22]: Validating portal[4] <-> 3608444362[4] (disabled)	
+[00:00:22]: Validating portal[5] <-> 3608444362[5] (disabled)	
+[00:00:22]: Validating portal[1] <-> 3608444362[1] (disabled)	
+[00:00:22]: Validating portal[8] <-> 3608444362[8] (active)	
+[00:00:22]: Validating portal[10] <-> 3608444362[10] (disabled)	
+[00:00:22]: Validating portal[6] <-> 3608444362[6] (disabled)	
+[00:00:22]: Validating portal[7] <-> 3608444362[7] (disabled)	
+[00:00:23]: New incoming connection 127.0.0.1|52402 <2614086971205727054>
+[00:00:23]: Client connected from [LAN] 127.0.0.1|52402 <2614086971205727054>
+[00:00:23]: ValidateGameSessionToken pgs-usc^KU_vW279ICH^DontStarveTogether^4BvAWMtjq8q1kzWQEgFhhDU7XT8F2T6SwUDZHyX9I38= for <2614086971205727054>
 [00:00:24]: Client authenticated: (KU_vW279ICH) CottonPicker
 [00:00:24]: [Steam] Authenticated host '76561198098703030'
 [00:00:24]: There is no active event to validate against.
@@ -373,77 +373,27 @@ Process Memory:
 [00:00:32]: Spawning player at: [Load] (263.63, -0.00, -110.18)	
 [00:00:32]: Sim unpaused
 [00:00:35]: Registering master server in EU lobby
-[00:06:26]: [P2P] Session request for '76561198013447996'
-[00:06:30]: [P2P] Create session: 129.237.174.10|1 '76561198013447996'
-[00:06:30]: [P2P] Received from 129.237.174.10|1 '76561198013447996'
-[00:06:30]: [P2P] Sent to 129.237.174.10|1 '76561198013447996'
-[00:06:30]: New incoming connection 129.237.174.10|1 <576842267064092730>
-[00:06:30]: Client connected from 129.237.174.10|1 <576842267064092730>
-[00:06:30]: ValidateGameSessionToken pgs-usc^KU_7veFLDrr^DontStarveTogether^my5iiYbKU1v7Fv0QdiYmay1IinAi+zqOdbTUAjN4AJg= for <576842267064092730>
-[00:06:31]: Client authenticated: (KU_7veFLDrr) Andreea the Tsundere
-[00:06:32]: [Steam] SendUserConnectAndAuthenticate for '76561198013447996'
-[00:06:32]: [Steam] Authenticated client '76561198013447996'
-[00:06:33]: There is no active event to validate against.
-[00:06:33]: [Shard] Read save location file for (KU_7veFLDrr)
-[00:06:35]: Registering master server in EU lobby
-[00:06:40]: Resuming user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000149
-[00:06:40]: Spawning player at: [Load] (255.40, 0.00, -119.82)	
-[00:06:45]: Registering master server in EU lobby
-[00:08:32]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000149
-[00:08:32]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000149
-[00:08:33]: Serializing world: session/09131CECDD673F0B/0000000149
-[00:08:35]: Registering master server in EU lobby
-[00:12:51]: [Steam] SendUserDisconnect for '76561198013447996'
-[00:12:51]: Connection lost to 129.237.174.10|1 <576842267064092730>
-[00:12:51]: [Shard] (KU_7veFLDrr) disconnected from [SHDMASTER](1)
-[00:12:52]: Serializing user: session/09131CECDD673F0B/A7GVJ87L9NBL/0000000150
-[00:12:55]: Registering master server in EU lobby
-[00:13:33]: Error parsing JSON
-[00:15:36]: Could not find anim [death] in bank [ghost]
-[00:15:36]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000150
-[00:15:36]: Start world reset countdown... 120 seconds...	
-[00:16:32]: Registering master server in EU lobby
-[00:16:33]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000150
-[00:16:33]: Serializing world: session/09131CECDD673F0B/0000000150
-[00:16:36]: Could not find anim [idle_loop] in bank [ghost]
-[00:16:36]: Stop world reset countdown	
-[00:16:39]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000151
-[00:22:51]: [P2P] Session timed out for '76561198013447996'
-[00:22:51]: [P2P] Remove session: 129.237.174.10|1 '76561198013447996'
-[00:24:33]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000151
-[00:24:33]: Serializing world: session/09131CECDD673F0B/0000000151
-[00:24:37]: Registering master server in EU lobby
-[00:30:05]: [200] Account Communication Success (6)
-[00:30:05]: Received (KU_vW279ICH) from TokenPurpose
-[00:31:33]: Error parsing JSON
-[00:31:39]: [Steam] SendUserDisconnect for '76561198098703030'
-[00:31:39]: [Shard] (KU_vW279ICH) disconnected from [SHDMASTER](1)
-[00:31:39]: Registering master server in EU lobby
-[00:31:39]: [IPC] Received shutdown signal.
-[00:31:39]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000152
-[00:31:39]: Serializing world: session/09131CECDD673F0B/0000000152
-[00:31:39]: Truncating to snapshot #152...
-[00:31:39]:  - session/09131CECDD673F0B/0000000144
-[00:31:39]:  - session/09131CECDD673F0B/0000000145
-[00:31:39]:  - session/09131CECDD673F0B/0000000146
-[00:31:39]:  - session/09131CECDD673F0B/A7GVJ87L9NBL/0000000145
-[00:31:39]:  - session/09131CECDD673F0B/A7GVJ87L9NBL/0000000144
-[00:31:39]:  - session/09131CECDD673F0B/A7N6023IA8OH/0000000146
-[00:31:39]:  - session/09131CECDD673F0B/A7N6023IA8OH/0000000145
-[00:31:39]:  - session/09131CECDD673F0B/A7N6023IA8OH/0000000144
-[00:31:39]:    8 file(s) removed
-[00:31:39]: Removing server from EU lobby
-[00:31:39]: [Shard] Stopping shard mode
-[00:31:40]: Collecting garbage...
-[00:31:40]: lua_gc took 0.20 seconds
-[00:31:40]: ~ShardLuaProxy()
-[00:31:40]: ~cEventLeaderboardProxy()
-[00:31:40]: ~ItemServerLuaProxy()
-[00:31:40]: ~InventoryLuaProxy()
-[00:31:40]: ~NetworkLuaProxy()
-[00:31:40]: ~SimLuaProxy()
-[00:31:40]: Cancelling LuaQueryCallback handle [30]
-[00:31:40]: lua_close took 0.33 seconds
-[00:31:40]: CurlRequestManager::ClientThread::Main() complete
-[00:31:40]: HttpClient2 discarded 0 callbacks.
-[00:31:40]: Shutting down
+[00:01:15]: Could not find anim [death] in bank [ghost]
+[00:01:15]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000149
+[00:01:15]: Start world reset countdown... 120 seconds...	
+[00:01:16]: [Steam] SendUserDisconnect for '76561198098703030'
+[00:01:16]: [Shard] (KU_vW279ICH) disconnected from [SHDMASTER](1)
+[00:01:16]: Registering master server in EU lobby
+[00:01:16]: [IPC] Received shutdown signal.
+[00:01:17]: Serializing user: session/09131CECDD673F0B/A7N6023IA8OH/0000000149
+[00:01:17]: Serializing world: session/09131CECDD673F0B/0000000149
+[00:01:17]: Removing server from EU lobby
+[00:01:17]: [Shard] Stopping shard mode
+[00:01:17]: Collecting garbage...
+[00:01:17]: lua_gc took 0.15 seconds
+[00:01:17]: ~ShardLuaProxy()
+[00:01:17]: ~cEventLeaderboardProxy()
+[00:01:17]: ~ItemServerLuaProxy()
+[00:01:17]: ~InventoryLuaProxy()
+[00:01:17]: ~NetworkLuaProxy()
+[00:01:17]: ~SimLuaProxy()
+[00:01:17]: Cancelling LuaQueryCallback handle [6]
+[00:01:18]: lua_close took 0.32 seconds
+[00:01:18]: CurlRequestManager::ClientThread::Main() complete
+[00:01:18]: HttpClient2 discarded 0 callbacks.
+[00:01:18]: Shutting down

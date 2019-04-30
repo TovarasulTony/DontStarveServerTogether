@@ -1,0 +1,15 @@
+[00:00:39]: [Join Announcement] CottonPicker
+[00:01:08]: [Join Announcement] Andreea the Tsundere
+[00:04:10]: [Say] (KU_vW279ICH) CottonPicker: ce a ars?
+[00:04:53]: [Whisper] (KU_vW279ICH) CottonPicker: iar ai dat pick la una?
+[00:05:05]: [Say] (KU_vW279ICH) CottonPicker: sa ma lasi pe mine sa le pun plz
+[00:06:06]: [Say] (KU_vW279ICH) CottonPicker: nu stiu
+[00:08:28]: [Say] (KU_vW279ICH) CottonPicker: nu
+[00:09:31]: [Death Announcement] Andreea the Tsundere was killed by Overheating. They became a spooky ghost!
+[00:09:53]: [Say] (KU_vW279ICH) CottonPicker: overheating
+[00:09:59]: [Resurrect Announcement] Andreea the Tsundere was resurrected by CottonPicker.
+[00:10:24]: [Say] (KU_vW279ICH) CottonPicker: eu nu merg
+[00:11:46]: [Say] (KU_vW279ICH) CottonPicker: am nevoie de el
+[00:12:30]: [Death Announcement] CottonPicker was killed by Spider Warrior. She became a spooky ghost!
+[00:13:05]: [Leave Announcement] CottonPicker
+[00:13:06]: [Leave Announcement] Andreea the Tsundere

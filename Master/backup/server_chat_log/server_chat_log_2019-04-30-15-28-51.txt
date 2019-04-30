@@ -1,0 +1,3 @@
+[00:00:32]: [Join Announcement] CottonPicker
+[00:01:26]: [Death Announcement] CottonPicker was killed by Spider. She became a spooky ghost!
+[00:01:36]: [Leave Announcement] CottonPicker

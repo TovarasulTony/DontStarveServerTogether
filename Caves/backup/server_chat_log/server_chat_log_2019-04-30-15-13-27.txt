@@ -1,0 +1,13 @@
+[00:00:30]: [Join Announcement] CottonPicker
+[00:01:17]: [Join Announcement] Andreea the Tsundere
+[00:01:56]: [Say] (KU_vW279ICH) CottonPicker: ti-am zis sa nu ma mai intrebi
+[00:02:13]: [Say] (KU_vW279ICH) CottonPicker: ce doresti
+[00:03:25]: [Death Announcement] CottonPicker was killed by Hound. She became a spooky ghost!
+[00:03:26]: [Death Announcement] Andreea the Tsundere was killed by Hound. They became a spooky ghost!
+[00:03:48]: [Resurrect Announcement] CottonPicker was resurrected by Life Giving Amulet.
+[00:04:27]: [Resurrect Announcement] Andreea the Tsundere was resurrected by CottonPicker.
+[00:04:37]: [Death Announcement] CottonPicker was killed by Overheating. She became a spooky ghost!
+[00:05:22]: [Leave Announcement] Andreea the Tsundere
+[00:06:04]: [Join Announcement] Andreea the Tsundere
+[00:06:07]: [Death Announcement] Andreea the Tsundere was killed by Shenanigans. They became a spooky ghost!
+[00:06:30]: [Leave Announcement] CottonPicker

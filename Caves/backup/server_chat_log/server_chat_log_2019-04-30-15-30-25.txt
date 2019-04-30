@@ -1,0 +1,3 @@
+[00:00:31]: [Join Announcement] CottonPicker
+[00:01:15]: [Death Announcement] CottonPicker was killed by Spider Warrior. She became a spooky ghost!
+[00:01:16]: [Leave Announcement] CottonPicker
