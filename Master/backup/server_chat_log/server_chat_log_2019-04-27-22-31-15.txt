@@ -1,6 +1,0 @@
-[00:02:34]: [Join Announcement] Andreea the Tsundere
-[00:03:12]: [Join Announcement] CottonPicker
-[00:11:07]: [Skin Announcement] Andreea the Tsundere profileflair_yule_glommer
-[00:15:36]: [Skin Announcement] CottonPicker emoji_flex
-[00:27:19]: [Leave Announcement] CottonPicker
-[00:27:21]: [Leave Announcement] Andreea the Tsundere
